@@ -37,7 +37,9 @@ This is the main function that bakes a cake. The restrictions provided to this f
 This calculates the cost it takes to bake a single cake considering the costs of all 3 ingredients
 
 
-# ConclusionConsider we have three ovens now, that is,
+# Conclusion
+
+Consider we have three ovens now, that is,
 Oven 1:bakes the cake in 17 minutes
 Oven 2:bakes the cake in 30 minutes
 Oven 3:bakes the cake in 45 minutes
